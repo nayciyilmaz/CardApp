@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CardApp</string>
+    <string name="full_name">Yılmaz Naycı</string>
+    <string name="title_name">Android Devoloper</string>
+
+    <string name="tel_number">1 11 111 1111</string>
+    <string name="share_name">youtube.com/nayciyilmaz</string>
+    <string name="mail_name">yilmaznayci@gmail.com</string>
+
+</resources>
